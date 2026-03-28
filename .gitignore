@@ -1,0 +1,19 @@
+# Maven build output
+target/
+
+# Generated Javadoc
+doc/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Mac system files
+.DS_Store
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
